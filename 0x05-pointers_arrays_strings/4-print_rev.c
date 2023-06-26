@@ -1,7 +1,6 @@
 #include"main.h"
 /**
  *
- *
  * print a string in rev followed by new line
  */
 void print_rev(char *s)
